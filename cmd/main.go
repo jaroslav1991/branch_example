@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("change from dev-2 branch")
 
 	fmt.Println("change from dev-3 branch")
+
+	fmt.Println("change from dev-4 branch")
 }
